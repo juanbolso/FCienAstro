@@ -1,0 +1,5 @@
+STAR: mass of the star in solar masses
+1.00
+PLANETS: a(au) e i lonod  loper  mass (in solar masses)
+0.0   0.2     0.0   0.0   90.0    0.00001
+1   0.3     0.0   0.0   0.0     0.0001

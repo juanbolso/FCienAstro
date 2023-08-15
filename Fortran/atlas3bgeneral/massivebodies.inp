@@ -1,0 +1,32 @@
+mass of central star in solar masses. (do not remove this line)
+1.d0
+number of planets.  (do not remove this line)
+8
+semimajor axis (au) and mass (in solar masses) of the planets. (do not remove this line)
+  0.387099	     1.66013679D-07
+  0.72333	     2.44783833D-06
+  1.00000	     3.04043264D-06
+  1.52369	     3.22715144D-07
+  5.2028	     9.54791938D-04
+  9.555	             2.85885980D-04
+ 19.225	             4.36624404D-05
+ 30.12	             5.15138902D-05
+
+
+-------------------------------------------------------------------
+INPUT DATA FILE FOR atlas2bgeneral.for and atlas3bgeneral.for
+
+www.fisica.edu.uy/~gallardo/atlas/
+--------------------------------------------------------------------
+
+
+Solar System:
+
+  0.387099	     1.66013679D-07
+  0.72333	     2.44783833D-06
+  1.00000	     3.04043264D-06
+  1.52369	     3.22715144D-07
+  5.2028	     9.54791938D-04
+  9.555	             2.85885980D-04
+ 19.225	             4.36624404D-05
+ 30.12	             5.15138902D-05

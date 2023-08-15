@@ -1,0 +1,10 @@
+Hsigmaa calculates H(sigma,a), ready to plot with gnuplot.
+Superatlas generates an atlas of resonances.
+Resonalyzer calculates details of some resonance.
+
+Folder "win" includes a compiled version for win including graphic library.
+
+Tabare Gallardo
+gallardo@fisica.edu.uy
+
+

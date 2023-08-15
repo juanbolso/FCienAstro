@@ -1,0 +1,24 @@
+STAR: mass of the star in solar masses
+0.96
+number of fixed planets
+2
+PLANETS: a(au) e i lonod  loper  mass (in solar masses)
+0.1254   0.137    0.0  0.0   47.0     0.00003249246
+0.2664   0.030    0.0  0.0  277.0     0.00004513509
+TEST PLANET: i lonod  loper mass
+       0.0  0.0  183.0     0.00001
+eccentricity limits of test planet for the exploration: emin emax deltae 
+0.0  0.7  0.05
+
+
+
+
+orbital elements are not astrocentric but Jacobi type 
+
+a in au
+angles in degrees
+mass in solar masses
+
+
+
+

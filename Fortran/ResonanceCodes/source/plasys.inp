@@ -1,0 +1,27 @@
+STAR: mass of the star in solar masses
+1.0
+PLANETS: a e mass, put one line per planet and a comment line after the last one
+  0.387099	0.2056   1.66013679D-07
+  0.72333	0.0067	 2.44783833D-06
+  1.00000	0.0167	 3.04043264D-06
+  1.52368	0.0934	 3.22715144D-07
+  5.20261	0.0489	 9.54791938D-04
+  9.55494	0.0545	 2.85885980D-04
+ 19.2185	0.0480	 4.36624404D-05
+ 30.1104	0.0068	 5.15138902D-05
+cccccccccccccccccccccccccccccccccccccccccccccc comment line
+
+
+
+
+
+After the comment line you can put your favorite junk, like data from other
+planetary systems
+
+try with Pluto
+39.8     0.25     7.0D-9
+
+
+
+
+

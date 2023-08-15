@@ -1,0 +1,15 @@
+STAR: mass of the star in solar masses
+1.0
+PLANETS interior and exterior: a e i lonod  loper mass
+1.0      0.01          0.0     0.0       0.0    0.001
+0.0        0.3         0.0     90.0     0.0    0.001
+
+
+semimajor axis of the 2nd planet (exterior) is defined by the resonance
+
+orbital elements are not astrocentric but Jacobi type 
+
+
+
+
+

@@ -1,0 +1,18 @@
+mass of central star in solar masses (do not remove this line)
+1.0
+a (au)    e      i   long node   long peri  mass for planets 0, 1, 2 (do not remove this line)
+ 0.0     0.05    1.0     0.0        60.0     1.0D-04
+ 1.0     0.05    1.0   120.0       180.0     1.0D-04
+ 3.6     0.05    1.0   240.0       300.0     1.0D-04
+
+
+
+put arbitrary value for a0, that is what this program calculates
+
+angles in degrees, mass in solar masses
+
+troubles: gallardo@fisica.edu.uy
+
+Reference: Gallardo, Coito and Badano (2016), Icarus.
+
+http://www.fisica.edu.uy/~gallardo/atlas/
